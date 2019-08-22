@@ -24,22 +24,6 @@ normative:
 
 informative:
 
-  TEMPLATE:
-    title: "Put the title here"
-    target: "https://url/here"
-    date: 2011-11-17
-    seriesinfo:
-      Tag: value
-    author:
-      -
-        ins: J. Author
-        name: Jay Author
-        org: Org
-      -
-        ins: J. Author
-        name: Jay Author
-        org: Org
-
   CFP:
     title: "Exploring Synergy between Content Aggregation and the Publisher Ecosystem Workshop 2019"
     target: "https://www.iab.org/activities/workshops/escape-workshop/"
