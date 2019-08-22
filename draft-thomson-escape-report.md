@@ -12,12 +12,12 @@ author:
   -
     ins: M. Thomson
     name: Martin Thomson
-    org: Mozilla
+    org:
     email: mt@lowentropy.net
   -
     ins: M. Nottingham
     name: Mark Nottingham
-    org: Fastly
+    org:
     email: mnot@mnot.net
 
 normative:
