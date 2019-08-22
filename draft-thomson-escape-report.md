@@ -712,7 +712,7 @@ itself. Assuming that content is stripped of personalization, the aggregator
 gains no new information.
 
 
-# AMP Problems Unrelated to Web Packaging {#conflation}
+# AMP Issues Unrelated to Web Packaging {#conflation}
 
 On multiple occasions, discussion at the Workshop concentrated on problems that
 arise as a result of constraints on the AMP format or details of its inclusion
