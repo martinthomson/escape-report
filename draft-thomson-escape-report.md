@@ -244,7 +244,7 @@ in significantly lower perceived delay in displaying the target page.
 A vital characteristic of this technique is that the browser does not contact
 the target site before navigation. The browser does not make any requests to
 sites until after navigation occurs, and only then if the site requires
-additional content.
+additional content or makes a request directly.
 
 Similar improvements could also be realized by downloading content (packaged or
 otherwise) directly from the target site through a technique called
