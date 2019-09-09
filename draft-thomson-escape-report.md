@@ -50,6 +50,32 @@ informative:
         name: Dave Cramer
         org: Hachette Book Group
 
+  ALAM:
+    title: "Supporting Web Archiving via Web Packaging"
+    target: "https://www.iab.org/wp-content/IAB-uploads/2019/06/sawood-alam-2.pdf"
+    date: 2019-06-06
+    author:
+      -
+        ins: S. Alam
+        name: Sawood Alam
+        org: Old Dominion University
+      -
+        ins: M. Weigle
+        name: Michele C Weigle
+        org: Old Dominion University
+      -
+        ins: M. Nelson
+        name: Michael L Nelson
+        org: Old Dominion University
+      -
+        ins: M. Klein
+        name: Martin Klein
+        org: Los Alamos National Laboratory
+      -
+        ins: H. Van de Sompel
+        name: Herbert Van de Sompel
+        org: Data Archiving and Networked Services
+
   BERJON:
     title: "ESCAPE: The New York Times Position"
     target: "https://www.iab.org/wp-content/IAB-uploads/2019/07/NYT-ESCAPE.pdf"
@@ -330,7 +356,7 @@ limitations inherent in doing that were identified.
 
 In particular, book publication specialists represented that books don't have
 the same requirements for timeliness or currency as web pages. For instance,
-Dave Cramer's submissio­­n {{CRAMER}} observed that Moby Dick was published
+Dave Cramer's submission {{CRAMER}} observed that Moby Dick was published
 over 61,000 days ago, which is considerably longer than the proposed limit of 7
 days for Signed Exchanges. The limited length of time that a Web Package can be
 considered valid was discussed at some length.
@@ -373,15 +399,16 @@ archival views. In particular, the speculation is that there would be less "live
 leakage" as packaged content might be less likely to refer to live resources
 that currently tend to "leak" into views of archives. It was also noted that
 subresources might also be more likely to be packaged, especially those that are
-needed for pre-rendering pages.
+needed for pre-rendering pages.  Other potential applications and enhancements
+are discussed in {{ALAM}}.
 
 Participants discussed the use of a signature for non-repudiation at some
-length. In one case related to the group, an individual disputed the accuracy
-of archived content, asserting that either the original content was modified at
-the source, or in the archive.
+length. In a case related to attendees, an individual disputed the accuracy of
+archived content, asserting that either the original content was modified at the
+source, or in the archive.
 
-Participants initially saw digital signatures as a way to address such issues
-of provenance. As similar problems exist in other areas, such as in book
+Some participants initially saw digital signatures as a way to address such
+issues of provenance. As similar problems exist in other areas, such as in book
 publication, medical research, and news, this was considered to have broad
 applicability.
 
