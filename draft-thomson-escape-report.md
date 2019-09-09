@@ -290,7 +290,8 @@ that of one loaded from an offline Web Package.
 
 Many participants pointed out that using "unsigned bundles" – that is, Web
 Packages without Signed Exchanges – could be adequate for this use case, since
-most users don't need cryptographic proof of the site's identity.
+most users don't need cryptographic proof of the site's identity.  However, some
+expressed concerns that this might worsen the propagation of falsehood.
 
 Some suggested that the value of Signed Exchanges was not realized in
 small-scale interpersonal exchange of information, but in the building of
@@ -306,8 +307,9 @@ No definite conclusions about offline sharing were reached during the workshop.
 
 A session on the second morning concentrated on two other significant potential
 use cases for Web Packages: book publishing and Web archiving. These were not
-seen as "primary" use cases by most participants, or by the proponents of Web
-Packaging.
+seen as "primary" by the proponents of Web Packaging; the original intent was
+not to spend significant time on these subjects, but there was considerable
+interest from attendees.
 
 
 ### Book Publishing
@@ -358,12 +360,20 @@ complex nature of the web itself.
 From an archival standpoint, the potential for Web content to be provided in a
 self-contained form was viewed positively. Several improvements to the
 structure of Web Packaging were considered, such as providing complete sets of
-content and the use of Memento {{?MEMENTO=RFC7089}}. Though there were
-potential applications of a packaging scheme, many challenges were recognized
-as requiring additional work on the part of content producers to be fully
-effective. For example, JavaScript is needed to render some archived content
-faithfully, but attributing that content to an origin in all scenarios is
-challenging.
+content and the use of Memento {{?MEMENTO=RFC7089}}.
+
+Though there were potential applications of a packaging scheme, many challenges
+were recognized as requiring additional work on the part of content producers to
+be fully effective. For example, JavaScript is needed to render some archived
+content faithfully, but attributing that content to an origin in all scenarios
+is challenging.
+
+If packaging were to be widely deployed it might improve the situation for
+archival views. In particular, the speculation is that there would be less "live
+leakage" as packaged content might be less likely to refer to live resources
+that currently tend to "leak" into views of archives. It was also noted that
+subresources might also be more likely to be packaged, especially those that are
+needed for pre-rendering pages.
 
 Participants discussed the use of a signature for non-repudiation at some
 length. In one case related to the group, an individual disputed the accuracy
