@@ -380,9 +380,9 @@ retrospect is challenging. Signing keys are not expected to be acceptable for
 long periods. If keys are leaked afterwards, an attacker could retroactively
 generate fraudulent signatures. Alternative solutions were discussed, such as
 providing independent archives for the same data, using consensus protocols, or
-using an append-only construct like a Haber-Stornetta log {{!AOLOG=DOI.
-10.1007/bf00196791}}, all of which can be used to increase the difficulty of
-altering or misrepresenting established archives.
+using an append-only construct like a Haber-Stornetta log
+{{!AOLOG=DOI.10.1007/bf00196791}}, all of which can be used to increase the
+difficulty of altering or misrepresenting established archives.
 
 
 # Tensions Between Web Publishers and Aggregators {#tension}
