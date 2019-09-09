@@ -882,6 +882,7 @@ Internet Architecture Board (IAB), and Internet Engineering Steering Group
 - Rudy Galfi, Google
 - Joseph Lorenzo Hall, Center for Democracy &amp; Technology (PC)
 - Matthew Nelson, Washington Post
+- Michael Nelson, Old Dominion University
 - Mark Nottingham, Fastly (IAB, PC)
 - Shigeki Ohtsu, Yahoo
 - Eric Rescorla, Mozilla
