@@ -778,7 +778,8 @@ running arbitrary active content (typically, JavaScript). For example:
 - AMP provides a framework for supporting user authentication, but publishers
   asserted that using this framework was not considered practical.
 
-- AMP content does not support rendering of certain content, like tables.
+- AMP content does not support rendering of certain content, which can affect
+  the ability of publishers to innovate in how they produce content.
 
 - The AMP model for the implementation of paywalls ({{paywalls}}) was claimed
   to be inimical to some publisher business models.
