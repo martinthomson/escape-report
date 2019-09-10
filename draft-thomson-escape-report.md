@@ -400,7 +400,7 @@ long periods. If keys are leaked afterwards, an attacker could retroactively
 generate fraudulent signatures. Alternative solutions were discussed, such as
 providing independent archives for the same data, using consensus protocols, or
 using an append-only construct like a Haber-Stornetta log
-{{!AOLOG=DOI.10.1007/bf00196791}}, all of which can be used to increase the
+{{?AOLOG=DOI.10.1007/bf00196791}}, all of which can be used to increase the
 difficulty of altering or misrepresenting established archives.
 
 
@@ -948,14 +948,14 @@ proposes to change that.
 
 ## Authority in HTTPS
 
-The web currently uses HTTPS {{!HTTP=RFC7230}} to establish a server's
+The web currently uses HTTPS {{?HTTP=RFC7230}} to establish a server's
 authority – that is, to give an assurance that the content came from where the
 URL implies. The combination of URI scheme (https), domain name (or host), and
-port number are formed into a single identifier, the origin {{!ORIGIN=RFC6454}}
+port number are formed into a single identifier, the origin {{?ORIGIN=RFC6454}}
 to which content is attributed.
 
 Web browsers use the certificate offered as part of a TLS connection
-{{!TLS=RFC8446}} to servers in determining whether a server is authoritative
+{{?TLS=RFC8446}} to servers in determining whether a server is authoritative
 for that origin; see {{?ORIGIN=RFC6454}} and Section 9.1 of {{?HTTP=RFC7230}}.
 Content is attributed to a given URL only if it is received from a connection
 to a server that is authoritative for the associated origin.
@@ -1040,7 +1040,7 @@ loading of AMP content alongside search content and other AMP resources.
 To provide preloading, Google operates an AMP Cache
 <https://developers.google.com/amp/cache/>, from which AMP content is served.
 As a consequence, browsers attribute the content to the origin
-{{!ORIGIN=RFC6454}} of the AMP Cache and not the publisher, creating some
+{{?ORIGIN=RFC6454}} of the AMP Cache and not the publisher, creating some
 confusion about how content is attributed, as discussed in the W3C finding on
 distributed content {{TAG-DC}}.
 
