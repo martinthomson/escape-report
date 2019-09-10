@@ -733,6 +733,13 @@ AMP more generally in this way. Some treatment of these points is considered
 relevant as some of the discussion at the workshop, even under the remit of
 discussing Web Packaging, concentrated on the effect of AMP on the ecosystem.
 
+Note:
+
+: Of the four formats mentioned in the workshop call for papers {{CFP}}, only
+ AMP sent representatives to the workshop. The discussion was therefore
+ concentrated around AMP; this section should not be read to imply anything
+ about other formats.
+
 Discussion and submissions referred to a commitment {{AMP-LESSONS}} to allow
 publishers to use content that met specific criteria to access privileged
 positions in search results, regardless of their adoption of AMP. Participants
