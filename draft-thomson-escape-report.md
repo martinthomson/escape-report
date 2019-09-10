@@ -230,10 +230,9 @@ merits of the use cases that might be enabled by Web Packaging. See
 
 ## Instant Navigation {#nav}
 
-The first intended deployment for most sizeable high-profile deployment of Web
-Packaging is so far is in Google Search, where packages are intended to improve
-the perceived performance of navigation to pages that are linked from search
-results when "clicked".
+The largest use of Web Packaging so far is in Google Search, where packages are
+intended to improve the perceived performance of navigation to pages that are
+linked from search results when "clicked".
 
 To enable this, when a linking (or referring) web page includes links to pages
 on another site, it also provides the browser with a packaged copy of the
