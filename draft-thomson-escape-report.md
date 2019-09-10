@@ -614,9 +614,9 @@ materially, as noted in {{YASSKIN}}:
   recommendations or the power this gives them over publishers.
 
 The most common concern raised in the discussion was the effect of this
-technology on smaller publishers who might be less able to produce competitive
-packaging options, where their primary differentiation in the market has
-previously been the quality of their content.
+technology on smaller publishers who might be less able to optimize the packages
+they produce, where their primary differentiation in the market has previously
+been the quality of their content.
 
 
 ### Consolidation of User Preferences
