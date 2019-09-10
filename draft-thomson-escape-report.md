@@ -986,9 +986,9 @@ offer in HTTPS - that certificate can also be used for HTTPS - but it includes
 a special attribute that denotes its suitability for signed exchanges.
 
 A web browser that has been provided with a signed exchange can verify the
-signature, and - if it the signature is valid and the certificate is acceptable
-- use the content from the signed exchange. Critically, the web browser does
-not make an HTTPS connection to a server to get the content or to verify the
+signature, and - if the signature is valid and the certificate is acceptable -
+use the content from the signed exchange. Critically, the web browser does not
+make an HTTPS connection to a server to get the content or to verify the
 signature.
 
 In effect, Web Packaging moves from a model where authority is derived from the
