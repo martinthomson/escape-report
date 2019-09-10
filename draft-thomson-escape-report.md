@@ -820,8 +820,7 @@ facilitating unconstrained copying of book content was necessary.
 
 This conflation of AMP issues with those addressed by Web Packaging was
 recurrent in the discussion. As observed in {{DAS}}, these concerns might be
-addressed by Web Packaging, though this depends on having new policies enacted
-by linking entities.
+addressed by linking to a signed bundle.
 
 
 # Security Considerations
