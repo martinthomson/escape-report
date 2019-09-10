@@ -441,9 +441,11 @@ the privileged position in the Google Search carousel given to AMP content,
 they would not publish in that format.
 
 Publishers that do produce AMP said they see a non-trivial increase in traffic
-as a result of the privileged placement in Google Search. For example, Yahoo
-Japan reported a 60% increase in traffic as a result of deploying AMP on Yahoo
-Travel {{OTSU}}.
+as a result of deploying AMP content. For example, Yahoo Japan reported a 60%
+increase in traffic as a result of deploying AMP on Yahoo Travel {{OTSU}}.
+There is no indication that this is due to better placement in Google Search
+results, from the inherent benefits of the AMP cache, or the use of the AMP
+format.
 
 Anecdotal evidence was offered by another large publisher that saw a 10% drop
 in traffic as a result of accidentally disabling AMP content. However,
