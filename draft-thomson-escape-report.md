@@ -682,13 +682,13 @@ measures are not available to clients unless they connect to the site.
 
 The discussion pointed out that these concerns are not new or uniquely enabled
 by Web Packaging. However, it was pointed out that new features are routinely
-subject to higher security and privacy expectations. In the example raised,
-shared compression of multiple resources has significant performance benefits
-but comes with a risk of exposing encrypted information through side-channels.
-Though it is possible that sites can use shared compression without this
-exposure, shared compression will likely only be enabled once it is clear that
-measures to prevent accidental information exposure are understood to be
-effective in a broad set of deployments.
+subject to higher security and privacy expectations. In an example unrelated to
+Web Packaging, shared compression of multiple resources has significant
+performance benefits but comes with a risk of exposing encrypted information
+through side-channels.  Though it is possible that sites can use shared
+compression without this exposure, shared compression will likely only be
+enabled once it is clear that measures to prevent accidental information
+exposure are understood to be effective in a broad set of deployments.
 
 <!-- alternative: For instance, though fingerprinting of browsers might be
 effective based on a range of existing features, the existence of an exposure
