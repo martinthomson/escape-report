@@ -421,9 +421,9 @@ that discussion can be found in {{conflation}}.
 
 We also considered the question of whether standardizing Web Packaging confers
 credibility to aggregators exercising unwelcome control over publisher content,
-or whether the technical safeguards Web Packaging provides would allow
-aggregators to cache and serve a wider variety of content. No conclusions were
-drawn.
+or whether the technical safeguards Web Packaging provides could allow
+aggregators to relax their restrictions on the kinds of content they're willing
+to cache and serve. No conclusions were drawn.
 
 
 ## Incentives for Web Packages
