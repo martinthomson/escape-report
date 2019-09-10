@@ -787,7 +787,8 @@ running arbitrary active content (typically, JavaScript). For example:
 More broadly, they considered AMP's constraints on the use of active content as
 problematic, since they prevent the use of capabilities that are provided on
 equivalent non-AMP pages. Reference was made to a proposed &lt;amp-script>
-element that seeks to provide limited access to some dynamic content.
+element - which has since been made fully available - that seeks to provide
+limited access to some dynamic content.
 
 
 ## Performance
