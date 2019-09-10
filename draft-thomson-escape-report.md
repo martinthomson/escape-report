@@ -170,10 +170,6 @@ informative:
         name: Sumantro Das
         org: 1-800-Flowers.com
 
-  SCHEMAORG:
-    title: "schema.org"
-    target: "https://schema.org/"
-
   TAG-DC:
     title: "Distributed and syndicated content"
     target: "https://www.iab.org/wp-content/IAB-uploads/2019/06/IAB-Position-Paper_-Signed-Exchanges.pdf"
@@ -1030,9 +1026,10 @@ treats AMP content specially. AMP content provides two properties that Google
 Search exploits: metadata exposure and static analysis of active content.
 
 AMP content provides metadata in a form that can be reliably extracted, using
-the microformats defined by the Schema.org project {{SCHEMAORG}}. This aspect of
-AMP has no effect on the discussion, except to the extent that this relates to
-Google Search and their use of this metadata in populating the carousel.
+the microformats defined by the Schema.org project <https://schema.org/>. This
+aspect of AMP has no effect on the discussion, except to the extent that this
+relates to Google Search and their use of this metadata in populating the
+carousel.
 
 Constrained use of active content – such as JavaScript - in AMP makes it
 possible to analyze content to verify that actions taken are narrowly limited.
