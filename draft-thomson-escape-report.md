@@ -235,13 +235,13 @@ intended to improve the perceived performance of navigation to pages that are
 linked from search results when "clicked".
 
 To enable this, when a linking (or referring) web page includes links to pages
-on another site, it also provides the browser with a packaged copy of the
-target content, signed by the origin of the target content. In effect, the
-referring page acts as a cache for the target page's content. If navigation to
-one of those links occurs, having the Web Package enables the browser to
-display that content as though it were acquired from the server for the target
-page – even though it came from a different server. In many cases, this results
-in significantly lower perceived delay in displaying the target page.
+on another site, it also provides the browser with a packaged copy of the target
+content, signed by the origin of the target content. In effect, the referring
+page provides a cache for the target page's content. If navigation to one of
+those links occurs, having the Web Package enables the browser to display that
+content as though it were acquired from the server for the target page – even
+though it came from a different server. In many cases, this results in
+significantly lower perceived delay in displaying the target page.
 
 A vital characteristic of this technique is that the browser does not contact
 the target site before navigation. The browser does not make any requests to
