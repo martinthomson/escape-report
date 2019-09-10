@@ -417,7 +417,7 @@ need to be able to trust that aggregators won't misrepresent their work, or
 de-emphasize it for reasons unrelated to quality and perceived value to the
 user.
 
-One key question that was discussed, from {{BERJON}}:
+One key question from {{BERJON}} was discussed:
 
 > Web Packaging has other uses, but it is primarily seen by a large proportion
   of its stakeholders as a solution to problems that AMP created. Before we agree
@@ -453,9 +453,9 @@ they would not publish in that format.
 Publishers that do produce AMP said they see a non-trivial increase in traffic
 as a result of deploying AMP content. For example, Yahoo Japan reported a 60%
 increase in traffic as a result of deploying AMP on Yahoo Travel {{OTSU}}.
-There is no indication that this is due to better placement in Google Search
-results, from the inherent benefits of the AMP cache, or the use of the AMP
-format.
+There was no data presented as to whether this increase was due to better
+placement in Google Search results, from the inherent benefits of the AMP cache,
+or the use of the AMP format.
 
 Anecdotal evidence was offered by another large publisher that saw a 10% drop
 in traffic as a result of accidentally disabling AMP content. However,
@@ -579,9 +579,10 @@ rely on.
 ### Consolidation of Power in Linking Sites
 
 Several participants noted that Web Packaging's enablement of instant navigation
-({{nav}}) might advantage larger linking sites over smaller ones in the same
-industry because doing so requires careful selections of which links to
-optimize, so as not to create unneeded traffic.
+({{nav}}) might advantage larger linking sites - such as social networks or
+search engines - over smaller ones in the same industry because doing so
+requires careful selections of which links to optimize, so as not to create
+unneeded traffic.
 
 For example, a news article often has many links, but not all of them are
 equally likely to be followed. Deciding which ones to pre-fetch requires
@@ -683,11 +684,11 @@ measures are not available to clients unless they connect to the site.
 The discussion pointed out that these concerns are not new or uniquely enabled
 by Web Packaging. However, it was pointed out that new features are routinely
 subject to higher security and privacy expectations. In an example unrelated to
-Web Packaging, shared compression of multiple resources has significant
-performance benefits but comes with a risk of exposing encrypted information
-through side-channels.  Though it is possible that sites can use shared
-compression without this exposure, shared compression will likely only be
-enabled once it is clear that measures to prevent accidental information
+Web Packaging but with similar tradeoffs, shared compression of multiple
+resources has significant performance benefits but comes with a risk of exposing
+encrypted information through side-channels.  Though it is possible that sites
+can use shared compression without this exposure, shared compression will likely
+only be enabled once it is clear that measures to prevent accidental information
 exposure are understood to be effective in a broad set of deployments.
 
 <!-- alternative: For instance, though fingerprinting of browsers might be
