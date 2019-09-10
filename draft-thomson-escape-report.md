@@ -328,7 +328,7 @@ limitations inherent in doing that were identified.
 
 In particular, book publication specialists represented that books don't have
 the same requirements for timeliness or currency as web pages. For instance,
-Dave Cramer's submissio­­n {{CRAMER}} observed that Moby Dick was published
+Dave Cramer's submission {{CRAMER}} observed that Moby Dick was published
 over 61,000 days ago, which is considerably longer than the proposed limit of 7
 days for Signed Exchanges. The limited length of time that a Web Package can be
 considered valid was discussed at some length.
