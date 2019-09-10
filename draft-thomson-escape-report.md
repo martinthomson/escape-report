@@ -478,13 +478,15 @@ regulatory requirements regarding removal or correction of content.
 Reference was made to the desire to remove videos of a recent shooting
 {{CHRISTCHURCH}} and the potential difficulty in doing so if content were
 available as Web Packages. Legal requirements to remove content come from
-multiple angles: copyright violations, illegal content, editorial corrections
-or errors, and right to erasure provisions in the European Union
-General Data Protection Regulation {{GDPR}} were mentioned.
+multiple angles: copyright violations, illegal content, editorial corrections or
+errors, and right to erasure provisions in the European Union General Data
+Protection Regulation {{GDPR}} were mentioned.  One participant speculated that
+making it more difficult to remove material in this way might discourage
+regulators from censoring content.
 
-In this context, participants observed that creating mechanisms for better
-tracking and control of content that is packaged works in direct opposition to
-the stated goal of censorship resistance.
+In this context, participants observed that it would be difficult to create
+mechanisms to track and control packaged content without compromising the stated
+goal of censorship resistance.
 
 
 ## Web Performance
