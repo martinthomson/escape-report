@@ -284,9 +284,9 @@ stated goals of Web Packaging is to enable sharing of content offline.
 
 Several participants reported that in areas where Internet access is expensive,
 slow, or intermittent, the use of direct peer-to-peer file exchange (e.g.,
-"saving a Web site and sharing it on a USB stick") is commonplace. Most Web
-browsers already have some affordances for this, but these are recognized as in
-need of improvements.
+"saving a Web site and sharing it on a USB stick or direct file transfer") is
+commonplace. Most Web browsers already have some affordances for this, but these
+are recognized as in need of improvements.
 
 In the discussion, several rejected an assumed requirement of this use case –
 that there be no difference between the presentation of a "normal" Web page and
