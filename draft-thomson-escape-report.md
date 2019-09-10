@@ -305,7 +305,7 @@ that of one loaded from an offline Web Package.
 The ability for a Web Package to provide clear attribution for content was seen
 as valuable by some participants for a range of reasons. However, reservations
 were expressed about the subtleties of the properties that signatures provide
-and the effect of this on Web security; see also {{web-sec}}.
+and the effect of this on Web security; see also {{web-sec}} and {{archive}}.
 
 Many participants pointed out that using "unsigned bundles" – that is, Web
 Packages without Signed Exchanges – could be adequate for this use case, since
@@ -369,7 +369,7 @@ or enable new features was considered valuable. Models for enabling paywalls
 were discussed at some length (see {{paywalls}}).
 
 
-### Web Archiving
+### Web Archiving {#archive}
 
 Web archiving is a complicated discipline that is made more difficult by the
 complex nature of the web itself.
