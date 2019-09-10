@@ -414,17 +414,18 @@ content faithfully, but attributing that content to an origin in all scenarios
 is challenging.
 
 If packaging were to be widely deployed it might improve the situation for
-archival views. In particular, the speculation is that there would be less "live
+archival replay. In particular, the speculation is that there would be less "live
 leakage" as packaged content might be less likely to refer to live resources
 that currently tend to "leak" into views of archives. It was also noted that
 subresources might also be more likely to be packaged, especially those that are
-needed for pre-rendering pages.  Other potential applications and enhancements
+needed for deferred representations (i.e., after JavaScript execution on the
+page or some user interactions).  Other potential applications and enhancements
 are discussed in {{ALAM}}.
 
 Participants discussed the use of a signature for non-repudiation at some
-length. In one case related to attendees, a public figure disputed the accuracy
-of archived content, asserting that either the original content was modified at
-the source, or in the archive.
+length. In one case related to the Internet Archive, a public figure disputed the
+accuracy of archived content, asserting that either the original content was
+modified at the source, or in the archive.
 
 Some participants initially saw digital signatures as a way to address such
 issues of provenance. As similar problems exist in other areas, such as in book
