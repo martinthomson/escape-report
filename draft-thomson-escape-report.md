@@ -578,11 +578,10 @@ rely on.
 
 ### Consolidation of Power in Linking Sites
 
-Several participants noted that Web Packaging's enablement of instant
-navigation ({{nav}}) might advantage larger linking sites – especially
-aggregators like social networks and search engines – because doing so requires
-careful selections of which links to optimize, so as not to create unneeded
-traffic.
+Several participants noted that Web Packaging's enablement of instant navigation
+({{nav}}) might advantage larger linking sites over smaller ones in the same
+industry because doing so requires careful selections of which links to
+optimize, so as not to create unneeded traffic.
 
 For example, a news article often has many links, but not all of them are
 equally likely to be followed. Deciding which ones to pre-fetch requires
