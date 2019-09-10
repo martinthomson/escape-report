@@ -264,11 +264,10 @@ Note:
   by the technique.
 
 Sites bundled with Web Packaging can additionally be constructed in a way that
-ensures that they render without needing any additional network access. The
-page-construction techniques that AMP requires produces this effect. Using
-these - or similar techniques - makes it possible to provide near-instantaneous
-navigation. Though this is not a property that Web Packaging aims to provide,
-the design is strongly motivated by the ability to provide this capability.
+ensures that they render without needing any additional network access. This
+makes it possible to provide near-instantaneous navigation. The proposed changes
+to web navigation in support of loading Web Packages is designed to support this
+use case.
 
 Workshop participants recognized the value of web performance for usability, as
 well as for business metrics like retention and bounce rates. Such improvements
