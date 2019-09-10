@@ -645,7 +645,7 @@ One session explored the impact of introducing a new security model for the
 Web. Currently, sites rely on connection-oriented security (provided by TLS
 {{!TLS=RFC8446}}), but Web Packaging adds a limited form of object security.
 That is, the package protects the integrity of a message, rather than providing
-integrity and confidentiality for its deliivery. Object security is not a new
+integrity and confidentiality for its delivery. Object security is not a new
 concept in the context of the Web; designs like SHTTP {{?SHTTP=RFC2660}} are as
 old as HTTPS. Though the intent is for Web Packaging to have a far more narrow
 applicability, it provides worse security properties than HTTPS, since it
