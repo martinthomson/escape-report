@@ -407,7 +407,7 @@ need to be able to trust that aggregators won't misrepresent their work, or
 de-emphasize it for reasons unrelated to quality and perceived value to the
 user.
 
-One question that dominated discussion was asked in {{BERJON}}:
+One key question that was discussed, from {{BERJON}}:
 
 > Web Packaging has other uses, but it is primarily seen by a large proportion
   of its stakeholders as a solution to problems that AMP created. Before we agree
