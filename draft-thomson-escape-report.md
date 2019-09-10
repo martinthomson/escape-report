@@ -674,12 +674,11 @@ For example, an attacker might be able to cause content with a security flaw to
 be used up to a week past the time that the defect was fixed.
 
 As an example of how Web Packaging might change the risk profile for sites,
-participants discussed recovery from cross-site scripting attacks. It is
-already the case that a brief exposure to this class of attack can result in an
-attacker gaining persistent access, but mechanisms exist that can be used to
-avoid or correct issues, like cache validation and Clear Site Data
-{{CLEAR-DATA}}. These measures are not available to clients that unless they
-connect to the site.
+participants discussed recovery from cross-site scripting attacks. It is already
+the case that a brief exposure to this class of attack can result in an attacker
+gaining persistent access, but mechanisms exist that can be used to avoid or
+correct issues, like cache validation and Clear Site Data {{CLEAR-DATA}}. These
+measures are not available to clients unless they connect to the site.
 
 The discussion pointed out that these concerns are not new or uniquely enabled
 by Web Packaging. However, it was pointed out that new features are routinely
