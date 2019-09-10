@@ -118,6 +118,16 @@ informative:
       -
         org: European Union
 
+  AMP-PERF:
+    title: "The Speed Benefit of AMP Prerendering"
+    target: "https://developers.googleblog.com/2019/08/the-speed-benefit-of-amp-prerendering.html"
+    date: 2019-08-14
+    author:
+      -
+        ins: E. Steinlauf
+        name: Eric Steinlauf
+        org: Google
+
   YASSKIN:
     title: "Chrome’s position on the ESCAPE workshop"
     target: "https://www.iab.org/wp-content/IAB-uploads/2019/06/chrome.html"
@@ -494,11 +504,12 @@ goal of censorship resistance.
 Understanding the effect that Web Packaging might have on web performance was a
 matter of some contention.
 
-Some rough data from current deployment was presented that suggested
-improvements that were in some cases quite significant. However, the data was
-not sufficiently detailed, nor supported with sufficient methodology and
-analysis to be conclusive. For instance, the analysis only included effect on
-page load times.
+Some informal analysis from the Google Search deployment was presented (later
+published in {{AMP-PERF}}) that showed significant performance improvements in
+metrics related to navigation time resulting from the combination of prefetch,
+prerendering, and the AMP format.  These results are suggestive of a possibility
+that Web Packaging could provide some of that improvement on its own, but no
+data was presented that apportioned the improvement among the three components.
 
 Though data was presented to demonstrate potential rather than be a definitive
 result, discussions raised a number of questions that suggest the need for
