@@ -375,7 +375,7 @@ faithfully, but attributing that content to an origin in all scenarios is
 challenging.
 
 Participants discussed the use of a signature for non-repudiation at some
-length. In one case related to the group, an individual disputed the accuracy
+length. In one case related to the group, a public figure disputed the accuracy
 of archived content, asserting that either the original content was modified at
 the source, or in the archive.
 
