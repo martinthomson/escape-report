@@ -671,7 +671,7 @@ of resources - Web Packaging allows an attacker more direct control over what
 resources are available to clients.
 
 For example, an attacker might be able to cause content with a security flaw to
-be used long past the time that the defect was fixed.
+be used up to a week past the time that the defect was fixed.
 
 As an example of how Web Packaging might change the risk profile for sites,
 participants discussed recovery from cross-site scripting attacks. It is
