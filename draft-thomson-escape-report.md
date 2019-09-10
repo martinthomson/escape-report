@@ -572,7 +572,8 @@ enabling that technology.
 
 While it isn't clear what all of the outcomes of adopting Web Packaging would
 be, the Workshop revealed several concerns for consolidation risks for all
-involved parties: linking sites, publisher sites, and users.
+involved parties: users, publisher sites, linking sites, and services they each
+rely on.
 
 
 ### Consolidation of Power in Linking Sites
