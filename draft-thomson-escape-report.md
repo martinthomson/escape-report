@@ -1014,13 +1014,12 @@ information that is related to a particular user.
 
 ## The AMP Format, Google Search Results, and Web Packaging
 
-The relationship between the AMP Project <https://amp.dev/> and the format it
-defines to Web Packaging complicates the discussion. The AMP Project, sponsored
-by Google, establishes a profile of HTML with a stated goal of providing
-support for the best practices for the format, with a strong emphasis on
-performance. The format tightly constrains the use of HTML features but offers
-a library of components that provide sanitized implementations of many basic
-functions.
+The relationship between the AMP Project <https://amp.dev/> and Web Packaging is
+complicated. The AMP Project, sponsored by Google, establishes a profile of HTML
+with a stated goal of providing support for the best practices for the format,
+with a strong emphasis on performance. The format tightly constrains the use of
+HTML features but offers a library of components that provide sanitized
+implementations of many basic functions.
 
 The connection to Web Packaging is bound up in the way that Google Search
 treats AMP content specially. AMP content provides two properties that Google
