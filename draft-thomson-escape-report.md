@@ -625,12 +625,11 @@ In typical operation of the Web, servers have an opportunity to tailor content
 to the needs of their users. In contrast, a static Web Package has few options
 for individualization, as the content is generated once and used by many.
 
-As a result, publishers noted that Web Packaging presents less opportunity to
-customize content for their customers. Their concerns included not only
-personalizing content based on what they know about the user but also
-optimizing the package for specific browsers – leading some participants to
-comment that Web Packaging might also have a consolidating effect in the
-browser market.
+As a result, publishers noted that AMP provides less opportunity to customize
+content for their customers. Their concerns included not only personalizing
+content based on what they know about the user but also optimizing the package
+for specific browsers. Other participants observed in relation to this that Web
+Packaging might also have a consolidating effect in the browser market.
 
 Some participants brought up the possibility of customization by providing
 multiple packages or performing customization after the package was loaded.
