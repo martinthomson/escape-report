@@ -195,19 +195,22 @@ relationship between publishers (e.g., news Web sites) and content aggregators
 this relationship, rather than being a technical discussion.
 
 Online publishers do not regularly participate in standards activities
-directly. A Workshop format was used to solicit input from them. See the
-Workshop Call for Participation {{CFP}} for more information, and a complete
-listing of submissions.
+directly. A Workshop format was used to solicit input from them. The workshop
+had 27 participants from a diverse set of backgrounds, including a small number
+of attendees from publishers, one aggregator (Google), plus representatives from
+browsers, the AMP community, CDNs, network operators, academia, and standards
+bodies. See the Workshop Call for Participation {{CFP}} for more information,
+and a complete listing of submissions.
 
 The Workshop was primarily a forum for discussion, so it did not reach definite
 conclusions. Instead, this report is the primary output of the Workshop, as a
 record of that discussion.
 
 This report documents the use cases discussed in {{usecase}} and explains the
-tensions between publishers and aggregators that might be affected by it in
+interactions between publishers and aggregators that might be affected by it in
 {{tension}}. {{workshop-details}} includes more details about the Workshop
-itself. For those unfamiliar with Web Packaging, {{overview}} provides a
-summary as background material.
+itself. For those unfamiliar with Web Packaging, {{overview}} provides a summary
+as background material.
 
 
 ## Mention of Specific Entities
