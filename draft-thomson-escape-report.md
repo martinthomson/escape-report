@@ -755,11 +755,13 @@ There was interest from workshop participants in the governance model used for
 AMP. In particular, the question of how independent the AMP project would be of
 Google and Google Search.
 
-While AMP is effectively controlled by Google, It it was asserted that the
-governance structure was intended to be more independent of Google over time.
-The understanding was that any consumer of the format, such as Google Search,
-would make an independent assessment about whether to use or require different
-aspects of the AMP project products.
+Three of the seven members of the AMP Technical Steering Committee, the body
+that governs AMP, are Google employees, which gives Google considerable
+influence over the project. It was asserted that the governance structure was
+intended to be more independent of Google over time. The understanding was that
+any consumer of the format, such as Google Search, would make an independent
+assessment about whether to use or require different aspects of the AMP project
+products.
 
 
 ## Constraints on the AMP Format
