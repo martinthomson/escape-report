@@ -271,8 +271,9 @@ use case.
 
 Workshop participants recognized the value of web performance for usability, as
 well as for business metrics like retention and bounce rates. Such improvements
-were seen as a valuable goal, but many participants raised questions about
-whether the costs were justified.
+were seen as a valuable goal, but publishers raised questions about whether they
+justified the cost of supporting an additional format, while others raised
+questions about the cost Web Packaging itself.
 
 
 ## Offline Content Sharing {#offline}
