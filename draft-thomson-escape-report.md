@@ -385,7 +385,7 @@ publication, medical research, and news, this was considered to have broad
 applicability.
 
 However, the discussion ultimately concluded that providing non-repudiation in
-retrospect is challenging. Signing keys are not expected to be acceptable for
+retrospect is challenging. Signing keys are not expected to remain secure for
 long periods. If keys are leaked afterwards, an attacker could retroactively
 generate fraudulent signatures. Alternative solutions were discussed, such as
 providing independent archives for the same data, using consensus protocols, or
