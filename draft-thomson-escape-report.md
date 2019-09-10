@@ -550,7 +550,7 @@ focused on more immediate concerns, such as interoperability and security.
 Moreover, people often find new uses for successful standards
 {{?SUCCESS=RFC5218}} after they are deployed. It is rarely possible to
 accurately predict all applications of a protocol or format, whether they are
-nefarious or beneficial. Refusing standardization only denies both outcomes.
+harmful or beneficial. Refusing standardization only denies both outcomes.
 
 With the understanding that predictions are difficult to make, there was
 considerable speculation at the Workshop about the possible effect of Web
