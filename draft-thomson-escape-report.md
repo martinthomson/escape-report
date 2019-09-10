@@ -632,10 +632,11 @@ for specific browsers. Other participants observed in relation to this that Web
 Packaging might also have a consolidating effect in the browser market.
 
 Some participants brought up the possibility of customization by providing
-multiple packages or performing customization after the package was loaded.
-However, other participants pointed out that both options are likely to affect
-performance, either increasing the size of the bundle or by delaying
-customization.
+multiple packages, including multiple variants of resources in a single packet,
+or performing customization after the package was loaded.  However, other
+participants pointed out that all of these options have negative side effects,
+either in complexity or reduced performance arising from larger bundles or
+delayed customization.
 
 
 ## Effect on Web Security {#web-sec}
