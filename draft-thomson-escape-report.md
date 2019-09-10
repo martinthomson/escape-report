@@ -806,12 +806,13 @@ for payment is increasingly common. One popular approach is to offer a limited
 number of articles without payment while insisting on a paid subscription to
 access further articles.
 
-On several occasions, participants expressed dissatisfaction with the
-difficulty of integrating paywall authorization when using AMP. In particular,
-they said AMP encourages publishers to include an article's full content,
-hidden by default but easily accessible to motivated users. The discussion
-extended to workarounds use things like cookie syncing
-{{?COOKIE-SYNC=DOI.10.1145/2660267.2660347}} to provide authorization.
+On several occasions, participants expressed dissatisfaction with the difficulty
+of integrating paywall authorization when using AMP. In particular, they said
+AMP encourages publishers to include an article's full content, hidden by
+default but easily accessible to motivated users. The discussion extended to
+workarounds like cookie syncing {{?COOKIE-SYNC=DOI.10.1145/2660267.2660347}}
+that is used as part of authorization, a consequence of having cached content
+hosted on the linking site rather than the target site.
 
 The same topic came up concerning book publication, where publishers indicated
 that having a means of enabling different methods of distribution without also
