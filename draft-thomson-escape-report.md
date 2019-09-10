@@ -1018,8 +1018,8 @@ The relationship between the AMP Project <https://amp.dev/> and Web Packaging is
 complicated. The AMP Project, sponsored by Google, establishes a profile of HTML
 with a stated goal of providing support for the best practices for the format,
 with a strong emphasis on performance. The format tightly constrains the use of
-HTML features but offers a library of components that provide sanitized
-implementations of many basic functions.
+HTML features but also offers a library of components that provide sanitized
+implementations of many commonly used capabilities.
 
 The connection to Web Packaging is bound up in the way that Google Search
 treats AMP content specially. AMP content provides two properties that Google
