@@ -643,7 +643,7 @@ delayed customization.
 
 One session explored the impact of introducing a new security model for the
 Web. Currently, sites rely on connection-oriented security (provided by TLS
-{{!TLS=RFC8446}}), but Web Packaging adds a limited form of object security.
+{{?TLS=RFC8446}}), but Web Packaging adds a limited form of object security.
 That is, the package protects the integrity of a message, rather than providing
 integrity and confidentiality for its delivery. Object security is not a new
 concept in the context of the Web; designs like SHTTP {{?SHTTP=RFC2660}} are as
@@ -935,8 +935,8 @@ Internet Architecture Board (IAB), and Internet Engineering Steering Group
 # Web Packaging Overview {#overview}
 
 Web Packaging is comprised of two separate technologies: resource bundling
-{{!BUNDLE=I-D.yasskin-dispatch-web-packaging}} and signed exchanges
-{{!SXG=I-D.yasskin-http-origin-signed-responses}}.
+{{?BUNDLE=I-D.yasskin-dispatch-web-packaging}} and signed exchanges
+{{?SXG=I-D.yasskin-http-origin-signed-responses}}.
 
 In both the submissions and Workshop discussion, the most controversial aspect
 of the technology is the use of signed exchanges as an alternative means of
