@@ -209,12 +209,12 @@ directly. A Workshop format was used to solicit input from them. The workshop
 had 27 participants from a diverse set of backgrounds, including a small number
 of attendees from publishers, one aggregator (Google), plus representatives from
 browsers, the AMP community, CDNs, network operators, academia, and standards
-bodies. See the Workshop Call for Participation {{CFP}} for more information,
+bodies. See the Workshop Call for Participation {{CFP}} for more information
 and a complete listing of submissions.
 
-The Workshop was primarily a forum for discussion, so it did not reach definite
-conclusions. Instead, this report is the primary output of the Workshop, as a
-record of that discussion.
+As intended, the Workshop was primarily a forum for discussion, so it did not
+reach definite conclusions. Instead, this report is the primary output of the
+Workshop, as a record of that discussion.
 
 This report documents the use cases discussed in {{usecase}} and explains the
 interactions between publishers and aggregators that might be affected by it in
@@ -283,7 +283,7 @@ Workshop participants recognized the value of web performance for usability, as
 well as for business metrics like retention and bounce rates. Such improvements
 were seen as a valuable goal, but publishers raised questions about whether they
 justified the cost of supporting an additional format, while others raised
-questions about the cost Web Packaging itself.
+concerns about different aspects of the Web Packaging proposal.
 
 
 ## Offline Content Sharing {#offline}
@@ -494,9 +494,15 @@ Protection Regulation {{GDPR}} were mentioned.  One participant speculated that
 making it more difficult to remove material in this way might discourage
 regulators from censoring content.
 
+<<<<<<< HEAD
 In this context, participants observed that it would be difficult to create
 mechanisms to track and control packaged content without compromising the stated
 goal of censorship resistance.
+=======
+In this context, participants observed that creating mechanisms for better
+tracking and control of content served as a Web Package works in direct
+opposition to the stated goal of censorship resistance.
+>>>>>>> rsalz
 
 
 ## Web Performance
@@ -504,12 +510,20 @@ goal of censorship resistance.
 Understanding the effect that Web Packaging might have on web performance was a
 matter of some contention.
 
+<<<<<<< HEAD
 Some informal analysis from the Google Search deployment was presented (later
 published in {{AMP-PERF}}) that showed significant performance improvements in
 metrics related to navigation time resulting from the combination of prefetch,
 prerendering, and the AMP format.  These results are suggestive of a possibility
 that Web Packaging could provide some of that improvement on its own, but no
 data was presented that apportioned the improvement among the three components.
+=======
+Some rough data from current deployment was presented that suggested
+improvements that were in some cases quite significant. However, the data was
+not sufficiently detailed, nor supported with sufficient methodology and
+analysis to be conclusive. For instance, the analysis only measured the time it
+takes to show content.
+>>>>>>> rsalz
 
 Though data was presented to demonstrate potential rather than be a definitive
 result, discussions raised a number of questions that suggest the need for
@@ -550,7 +564,11 @@ focused on more immediate concerns, such as interoperability and security.
 Moreover, people often find new uses for successful standards
 {{?SUCCESS=RFC5218}} after they are deployed. It is rarely possible to
 accurately predict all applications of a protocol or format, whether they are
+<<<<<<< HEAD
 harmful or beneficial. Refusing standardization only denies both outcomes.
+=======
+nefarious or beneficial. Refusing standardization only impedes these outcomes.
+>>>>>>> rsalz
 
 With the understanding that predictions are difficult to make, there was
 considerable speculation at the Workshop about the possible effect of Web
@@ -563,11 +581,11 @@ capture that discussion.
 
 Concerns about the consolidation of power on the Internet have significantly
 increased lately, as a result of several factors. While the IAB, the Internet
-Society and others are examining this phenomenon to understand it better, it is
-prudent to consider whether proposals for changes to how the Internet works
-favors or counters consolidation. Favoring entities with existing advantages -
-like resources, size, or market share - is not necessarily a factor that
-disqualifies a new proposal, but it needs to be considered as a cost of
+Society, and others are examining this phenomenon to understand it better, it is
+nevertheless prudent to consider whether proposals for changes to how the
+Internet works favors or counters consolidation. Favoring entities with existing
+advantages - like resources, size, or market share - is not necessarily a factor
+that disqualifies a new proposal, but it needs to be considered as a cost of
 enabling that technology.
 
 While it isn't clear what all of the outcomes of adopting Web Packaging would
@@ -841,7 +859,8 @@ Attendees to the Workshop were asked to submit position papers. These papers
 are published on the IAB website {{CFP}}.
 
 The Workshop was conducted under Chatham House rule {{CHATHAM-HOUSE}}, meaning
-that statements cannot be attributed to individuals or organizations.
+that statements cannot be attributed to individuals or organizations without
+explicit authorization.
 
 
 ## Agenda
@@ -922,7 +941,7 @@ Internet Architecture Board (IAB), and Internet Engineering Steering Group
 - Shigeki Ohtsu, Yahoo
 - Eric Rescorla, Mozilla
 - Adam Roach, Mozilla (IESG)
-- Rich Salz, Akamai
+- Rich Salz, Akamai Technologies
 - Wendy Seltzer, W3C
 - David Strauss, Pantheon (PC)
 - Chi-Jiun Su, Hughes
@@ -1026,11 +1045,18 @@ The connection to Web Packaging is bound up in the way that Google Search
 treats AMP content specially. AMP content provides two properties that Google
 Search exploits: metadata exposure and static analysis of active content.
 
+<<<<<<< HEAD
 AMP content provides metadata in a form that can be reliably extracted, using
 the microformats defined by the Schema.org project <https://schema.org/>. This
 aspect of AMP has no effect on the discussion, except to the extent that this
 relates to Google Search and their use of this metadata in populating the
 carousel.
+=======
+AMP content provides metadata in a form that can be reliably extracted. From
+this metadata, a summary block is provided. For instance, a news article summary
+might use the article title, a summary, image and publisher logo. This aspect of
+AMP has no substantial effect on the discussion.
+>>>>>>> rsalz
 
 Constrained use of active content – such as JavaScript - in AMP makes it
 possible to analyze content to verify that actions taken are narrowly limited.
