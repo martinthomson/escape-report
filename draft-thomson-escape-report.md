@@ -432,7 +432,7 @@ Submissions to the Workshop indicated that the use of inducements involving
 better placement and formatting of links to publisher content had a significant
 effect on the uptake of related technology. For example, in {{DEPUYDT-NELSON}}:
 
-> \[…] The Washington Post has always placed a great deal of trust in Google to
+> \[...] The Washington Post has always placed a great deal of trust in Google to
   represent its content—and their reward for doing so is more traffic, which
   positively impacts the business.
 
