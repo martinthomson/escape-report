@@ -697,7 +697,7 @@ of the same information. -->
 
 The discussion also addressed the question of whether concerns might equally
 apply to the typical use of a Content Distribution Network (CDN) as a
-third-party provider of the content. Participants concluded that CDNs are
+third-party provider of the content. Some participants concluded that CDNs are
 typically in a contractual relationship with the sites they serve and so are
 more likely to have their interests aligned.
 
