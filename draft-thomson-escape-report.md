@@ -394,12 +394,12 @@ using an append-only construct like a Haber-Stornetta log
 difficulty of altering or misrepresenting established archives.
 
 
-# Tensions Between Web Publishers and Aggregators {#tension}
+# Interactions Between Web Publishers and Aggregators {#tension}
 
 A significant motivation for holding the Workshop was to provide a forum where
 publishers could air their concerns about the changes proposed in Web
-Packaging. Of primary interest was whether Web Packages might effectively
-enable a transfer of power from publishers to aggregators.
+Packaging. Of primary interest was whether Web Packages might effectively enable
+a transfer of power from publishers to aggregators.
 
 Both publishers and aggregators at the workshop expressed the importance of
 maintaining a positive relationship. Publishers in particular expressed the
