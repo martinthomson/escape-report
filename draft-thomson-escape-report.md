@@ -648,8 +648,9 @@ That is, the package protects the integrity of a message, rather than providing
 integrity and confidentiality for its delivery. Object security is not a new
 concept in the context of the Web; designs like SHTTP {{?SHTTP=RFC2660}} are as
 old as HTTPS. Though the intent is for Web Packaging to have a far more narrow
-applicability, it provides worse security properties than HTTPS, since it
-provides only authentication, and no confidentiality with respect to the cache.
+applicability, it provides fewer security guarantees than HTTPS, since it
+provides only authentication, no confidentiality with respect to the cache, and
+no assurance of liveness.
 
 Object-based security – such as proposed in Web Packaging – allows the use of
 content regardless of how it is obtained; some participants noted that this has
