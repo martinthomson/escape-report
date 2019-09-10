@@ -379,10 +379,10 @@ length. In one case related to the group, a public figure disputed the accuracy
 of archived content, asserting that either the original content was modified at
 the source, or in the archive.
 
-Participants initially saw digital signatures as a way to address such issues
-of provenance. As similar problems exist in other areas, such as in book
-publication, medical research, and news, this was considered to have broad
-applicability.
+Some participants initially saw digital signatures as a way to address such
+issues of provenance. As similar problems exist in other areas, such as in book
+publication, medical research, and news, a solution to this problem was
+considered to have broad applicability.
 
 However, the discussion ultimately concluded that providing non-repudiation in
 retrospect is challenging. Signing keys are not expected to remain secure for
