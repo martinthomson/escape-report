@@ -50,6 +50,32 @@ informative:
         name: Dave Cramer
         org: Hachette Book Group
 
+  ALAM:
+    title: "Supporting Web Archiving via Web Packaging"
+    target: "https://www.iab.org/wp-content/IAB-uploads/2019/06/sawood-alam-2.pdf"
+    date: 2019-06-06
+    author:
+      -
+        ins: S. Alam
+        name: Sawood Alam
+        org: Old Dominion University
+      -
+        ins: M. Weigle
+        name: Michele C Weigle
+        org: Old Dominion University
+      -
+        ins: M. Nelson
+        name: Michael L Nelson
+        org: Old Dominion University
+      -
+        ins: M. Klein
+        name: Martin Klein
+        org: Los Alamos National Laboratory
+      -
+        ins: H. Van de Sompel
+        name: Herbert Van de Sompel
+        org: Data Archiving and Networked Services
+
   BERJON:
     title: "ESCAPE: The New York Times Position"
     target: "https://www.iab.org/wp-content/IAB-uploads/2019/07/NYT-ESCAPE.pdf"
@@ -309,7 +335,8 @@ and the effect of this on Web security; see also {{web-sec}} and {{archive}}.
 
 Many participants pointed out that using "unsigned bundles" – that is, Web
 Packages without Signed Exchanges – could be adequate for this use case, since
-most users don't need cryptographic proof of the site's identity.
+most users don't need cryptographic proof of the site's identity.  However, some
+expressed concerns that this might worsen the propagation of falsehood.
 
 Some suggested that the value of Signed Exchanges was not realized in
 small-scale interpersonal exchange of information, but in the building of
@@ -325,8 +352,9 @@ No definite conclusions about offline sharing were reached during the workshop.
 
 A session on the second morning concentrated on two other significant potential
 use cases for Web Packages: book publishing and Web archiving. These were not
-seen as "primary" use cases by most participants, or by the proponents of Web
-Packaging.
+seen as "primary" by the proponents of Web Packaging; the original intent was
+not to spend significant time on these subjects, but there was considerable
+interest from attendees.
 
 
 ### Book Publishing
@@ -377,15 +405,24 @@ complex nature of the web itself.
 From an archival standpoint, the potential for Web content to be provided in a
 self-contained form was viewed positively. Several improvements to the
 structure of Web Packaging were considered, such as providing complete sets of
-content and the use of Memento {{?MEMENTO=RFC7089}}. Though there were
-potential applications of a packaging scheme, many challenges were recognized
-as requiring additional work on the part of content producers to be fully
-effective. For example, JavaScript is needed to render some archived content
-faithfully, but attributing that content to an origin in all scenarios is
-challenging.
+content and the use of Memento {{?MEMENTO=RFC7089}}.
+
+Though there were potential applications of a packaging scheme, many challenges
+were recognized as requiring additional work on the part of content producers to
+be fully effective. For example, JavaScript is needed to render some archived
+content faithfully, but attributing that content to an origin in all scenarios
+is challenging.
+
+If packaging were to be widely deployed it might improve the situation for
+archival views. In particular, the speculation is that there would be less "live
+leakage" as packaged content might be less likely to refer to live resources
+that currently tend to "leak" into views of archives. It was also noted that
+subresources might also be more likely to be packaged, especially those that are
+needed for pre-rendering pages.  Other potential applications and enhancements
+are discussed in {{ALAM}}.
 
 Participants discussed the use of a signature for non-repudiation at some
-length. In one case related to the group, a public figure disputed the accuracy
+length. In one case related to attendees, a public figure disputed the accuracy
 of archived content, asserting that either the original content was modified at
 the source, or in the archive.
 
@@ -494,15 +531,9 @@ Protection Regulation {{GDPR}} were mentioned.  One participant speculated that
 making it more difficult to remove material in this way might discourage
 regulators from censoring content.
 
-<<<<<<< HEAD
 In this context, participants observed that it would be difficult to create
-mechanisms to track and control packaged content without compromising the stated
+mechanisms to track and control content served as a Web Package without compromising the stated
 goal of censorship resistance.
-=======
-In this context, participants observed that creating mechanisms for better
-tracking and control of content served as a Web Package works in direct
-opposition to the stated goal of censorship resistance.
->>>>>>> rsalz
 
 
 ## Web Performance
@@ -510,20 +541,12 @@ opposition to the stated goal of censorship resistance.
 Understanding the effect that Web Packaging might have on web performance was a
 matter of some contention.
 
-<<<<<<< HEAD
 Some informal analysis from the Google Search deployment was presented (later
 published in {{AMP-PERF}}) that showed significant performance improvements in
 metrics related to navigation time resulting from the combination of prefetch,
 prerendering, and the AMP format.  These results are suggestive of a possibility
 that Web Packaging could provide some of that improvement on its own, but no
 data was presented that apportioned the improvement among the three components.
-=======
-Some rough data from current deployment was presented that suggested
-improvements that were in some cases quite significant. However, the data was
-not sufficiently detailed, nor supported with sufficient methodology and
-analysis to be conclusive. For instance, the analysis only measured the time it
-takes to show content.
->>>>>>> rsalz
 
 Though data was presented to demonstrate potential rather than be a definitive
 result, discussions raised a number of questions that suggest the need for
@@ -564,11 +587,7 @@ focused on more immediate concerns, such as interoperability and security.
 Moreover, people often find new uses for successful standards
 {{?SUCCESS=RFC5218}} after they are deployed. It is rarely possible to
 accurately predict all applications of a protocol or format, whether they are
-<<<<<<< HEAD
-harmful or beneficial. Refusing standardization only denies both outcomes.
-=======
-nefarious or beneficial. Refusing standardization only impedes these outcomes.
->>>>>>> rsalz
+harmful or beneficial. Refusing standardization only impedes both outcomes.
 
 With the understanding that predictions are difficult to make, there was
 considerable speculation at the Workshop about the possible effect of Web
@@ -1045,18 +1064,11 @@ The connection to Web Packaging is bound up in the way that Google Search
 treats AMP content specially. AMP content provides two properties that Google
 Search exploits: metadata exposure and static analysis of active content.
 
-<<<<<<< HEAD
 AMP content provides metadata in a form that can be reliably extracted, using
 the microformats defined by the Schema.org project <https://schema.org/>. This
 aspect of AMP has no effect on the discussion, except to the extent that this
 relates to Google Search and their use of this metadata in populating the
 carousel.
-=======
-AMP content provides metadata in a form that can be reliably extracted. From
-this metadata, a summary block is provided. For instance, a news article summary
-might use the article title, a summary, image and publisher logo. This aspect of
-AMP has no substantial effect on the discussion.
->>>>>>> rsalz
 
 Constrained use of active content – such as JavaScript - in AMP makes it
 possible to analyze content to verify that actions taken are narrowly limited.
