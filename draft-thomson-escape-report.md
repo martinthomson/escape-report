@@ -513,19 +513,18 @@ data was presented that apportioned the improvement among the three components.
 
 Though data was presented to demonstrate potential rather than be a definitive
 result, discussions raised a number of questions that suggest the need for
-further study. For instance, it was not clear from the data presented that the
-effect of signed bundles could be distinguished from the enhancements derived
-from the AMP format. It was pointed out that future research in this area
-should also consider the effectiveness of different strategies on devices with
-varying capabilities, bandwidth, power consumption requirements, or network
-conditions.
+further study. Attendees suggested that future measurements consider the effect
+of signed bundles distinct from the enhancements derived from the AMP
+format. Future research in this area might also consider the effectiveness of
+different strategies on devices with varying capabilities, bandwidth, power
+consumption requirements, or network conditions.
 
-Of particular interest is the additional work required to prepare multiple web
-pages, which might require fewer connections, but comes with an increased cost
-in network and CPU for clients. Some participants pointed out that while high
-performance helps advertising-based revenue models, it is not always desirable
-to make these tradeoffs; for example, when users have limited (or expensive)
-bandwidth.
+Of particular interest is the additional work required to fetch and render
+multiple web pages in prepation for navigation.  This might ultimately use fewer
+connections, but comes with an increased network and CPU cost for clients. Some
+participants pointed out that different clients or applications might require
+different tuning; for example, when users have limited (or expensive) bandwidth,
+or for sites with less clear knowledge about the use of outbound links.
 
 Workshop participants also expressed interest in learning about the effect of
 Web Packages on subsequent navigations within the target site.
