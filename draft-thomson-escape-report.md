@@ -455,19 +455,18 @@ revenue, as observed in {{BREWSTER}}.
 
 ## Operational Costs
 
-Several participants pointed out that introducing a new, parallel format for
-Web content incurs operational costs. In particular, supporting Web Packaging
-requires not only initial development of tooling (some generic, some specific
-to a site's requirements) but also an ongoing investment in maintaining its
+Several participants pointed out that introducing a new, parallel format for Web
+content incurs operational costs. In particular, supporting any new format -
+such as Web Packaging, Apple News, or Facebook Instant Articles - requires not
+only initial development of tooling (some generic, some specific to a site's
+requirements) but also an ongoing investment in maintaining its
 operability. Some participants expressed concern about the impact upon small
 publishers with limited technical and financial resources, especially in the
 current publishing climate.
 
-Though much of the discussion concentrated on AMP, participants expressed
-similar sentiments about other proprietary formats for articles, such as Apple
-News or Facebook Instant Articles. In those cases, increased exposure from
-these formats might not justify the added expense of providing articles in that
-format {{BREWSTER}}.
+Increased exposure from new formats might not always justify the added expense
+of providing articles in that format {{BREWSTER}}.  However, a standardized
+format might help publishers reduce the cost of maintaining multiple formats.
 
 
 ## Content Regulation
