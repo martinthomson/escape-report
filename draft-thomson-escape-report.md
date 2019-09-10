@@ -653,9 +653,10 @@ provides only authentication, no confidentiality with respect to the cache, and
 no assurance of liveness.
 
 Object-based security – such as proposed in Web Packaging – allows the use of
-content regardless of how it is obtained; some participants noted that this has
-the effect of transferring control over the distribution of content to third
-parties, potentially without any constraints.
+content regardless of how it is obtained; some participants noted that third
+parties gain greater control over the distribution of content, reducing the
+ability of publishers to retract or alter content over the validity period of
+signed content.
 
 Another topic of discussion was composition attacks. In its proposed form, Web
 Packaging only provides authentication of independent resources, not a web page
