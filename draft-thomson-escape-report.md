@@ -228,6 +228,7 @@ Much of the Workshop concentrated on discussion of the validity and relative
 merits of the use cases that might be enabled by Web Packaging. See
 {{overview}} for an overview of what Web Packaging is.
 
+
 ## Instant Navigation {#nav}
 
 The largest use of Web Packaging so far is in Google Search, where packages are
@@ -238,10 +239,11 @@ To enable this, when a linking (or referring) web page includes links to pages
 on another site, it also provides the browser with a packaged copy of the target
 content, signed by the origin of the target content. In effect, the referring
 page provides a cache for the target page's content. If navigation to one of
-those links occurs, having the Web Package enables the browser to display that
-content as though it were acquired from the server for the target page – even
-though it came from a different server. In many cases, this results in
-significantly lower perceived delay in displaying the target page.
+those links occurs, having the Web Package gives a browser the assurance that
+the cache didn't change the content, so it can treat that content as if it were
+acquired directly from the server for the target page – even though it came from
+a different server. In many cases, this results in significantly lower perceived
+delay in displaying the target page.
 
 A vital characteristic of this technique is that the browser does not contact
 the target site before navigation. The browser does not make any requests to
