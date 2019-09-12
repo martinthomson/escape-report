@@ -5,7 +5,7 @@
 Network Working Group                                         M. Thomson
 Internet-Draft
 Intended status: Informational                             M. Nottingham
-Expires: March 13, 2020                               September 10, 2019
+Expires: March 15, 2020                               September 12, 2019
 
 
    Report from the IAB Workshop on Exploring Synergy between Content
@@ -35,7 +35,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on March 13, 2020.
+   This Internet-Draft will expire on March 15, 2020.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 1]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 1]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 2]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 2]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -165,7 +165,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 3]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 3]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -221,7 +221,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 4]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 4]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -277,7 +277,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 5]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 5]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -333,7 +333,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 6]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 6]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -389,7 +389,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 7]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 7]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -445,7 +445,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 8]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 8]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -501,7 +501,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                 [Page 9]
+Thomson & Nottingham     Expires March 15, 2020                 [Page 9]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -557,7 +557,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 10]
+Thomson & Nottingham     Expires March 15, 2020                [Page 10]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -613,7 +613,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 11]
+Thomson & Nottingham     Expires March 15, 2020                [Page 11]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -669,7 +669,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 12]
+Thomson & Nottingham     Expires March 15, 2020                [Page 12]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -681,10 +681,11 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
    Some participants brought up the possibility of customization by
    providing multiple packages, including multiple variants of resources
-   in a single packet, or performing customization after the package was
-   loaded.  However, other participants pointed out that all of these
-   options have negative side effects, either in complexity or reduced
-   performance arising from larger bundles or delayed customization.
+   in a single package, or performing customization after the package
+   was loaded.  However, other participants pointed out that all of
+   these options have negative side effects, either in complexity or
+   reduced performance arising from larger bundles or delayed
+   customization.
 
 4.2.  Effect on Web Security
 
@@ -724,8 +725,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-
-Thomson & Nottingham     Expires March 13, 2020                [Page 13]
+Thomson & Nottingham     Expires March 15, 2020                [Page 13]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -781,7 +781,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 14]
+Thomson & Nottingham     Expires March 15, 2020                [Page 14]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -837,7 +837,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 15]
+Thomson & Nottingham     Expires March 15, 2020                [Page 15]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -893,7 +893,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 16]
+Thomson & Nottingham     Expires March 15, 2020                [Page 16]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -949,7 +949,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 17]
+Thomson & Nottingham     Expires March 15, 2020                [Page 17]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -1005,7 +1005,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 18]
+Thomson & Nottingham     Expires March 15, 2020                [Page 18]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -1061,7 +1061,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 19]
+Thomson & Nottingham     Expires March 15, 2020                [Page 19]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -1117,7 +1117,7 @@ A.1.1.  Thursday 2019-07-18
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 20]
+Thomson & Nottingham     Expires March 15, 2020                [Page 20]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -1173,7 +1173,7 @@ A.2.  Workshop Attendees
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 21]
+Thomson & Nottingham     Expires March 15, 2020                [Page 21]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -1229,7 +1229,7 @@ B.1.  Authority in HTTPS
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 22]
+Thomson & Nottingham     Expires March 15, 2020                [Page 22]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -1285,7 +1285,7 @@ B.2.  Authority in Web Packaging
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 23]
+Thomson & Nottingham     Expires March 15, 2020                [Page 23]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -1341,7 +1341,7 @@ B.4.  The AMP Format, Google Search Results, and Web Packaging
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 24]
+Thomson & Nottingham     Expires March 15, 2020                [Page 24]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -1397,4 +1397,4 @@ Authors' Addresses
 
 
 
-Thomson & Nottingham     Expires March 13, 2020                [Page 25]
+Thomson & Nottingham     Expires March 15, 2020                [Page 25]
