@@ -19,13 +19,8 @@ subject to a Simplified BSD License) in Contributions.
 
 ## Other Resources
 
-Discussion of this work occurs on the
-[escape working group mailing list](https://mailarchive.ietf.org/arch/browse/escape/)
-([subscribe](https://www.ietf.org/mailman/listinfo/escape)).  In addition to
-contributions in GitHub, you are encouraged to participate in discussions there.
-
-**Note**: Some working groups adopt a policy whereby substantive discussion of
-technical issues needs to occur on the mailing list.
-
-You might also like to familiarize yourself with other
-[working group documents](https://datatracker.ietf.org/wg/escape/documents/).
+Feedback on this work should be directed to the
+[architecture-discuss mailing list](https://mailarchive.ietf.org/arch/browse/architecture-discuss/)
+([subscribe](https://www.iab.org/mailman/listinfo/architecture-discuss)) or
+the [IAB](mailto:iab@iab.org) directly.  You may also open issues and pull
+requests on the repository.
