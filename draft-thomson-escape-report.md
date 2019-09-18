@@ -205,6 +205,16 @@ informative:
         ins: A. Betts
         name: Andrew Betts
 
+  LOADING:
+    title: "Loading Signed Exchanges"
+    target: "https://wicg.github.io/webpackage/loading.html"
+    date: 2019-09-04
+    author:
+      -
+        ins: J. Yasskin
+        name: Jeffrey Yasskin
+        org: Google
+
 
 --- abstract
 
@@ -860,6 +870,15 @@ facilitating unconstrained copying of book content was necessary.
 This conflation of AMP issues with those addressed by Web Packaging was
 recurrent in the discussion. As observed in {{DAS}}, these concerns might be
 addressed by linking to a signed bundle.
+
+
+# Venues for Future Discussion
+
+Web Packaging work continues in multiple forums. Questions about the core format
+and signatures is being discussed on the [wpack@ietf.org mailing
+list](https://www.ietf.org/mailman/listinfo/wpack). Changes to web browsers as
+proposed in {{LOADING}} will be discussed on the [Fetch specification
+repository](https://github.com/whatwg/fetch/issues/784).
 
 
 # Security Considerations
