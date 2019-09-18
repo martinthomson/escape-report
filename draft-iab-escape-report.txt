@@ -10,7 +10,7 @@ Expires: March 21, 2020                               September 18, 2019
 
    Report from the IAB Workshop on Exploring Synergy between Content
             Aggregation and the Publisher Ecosystem (ESCAPE)
-                   draft-thomson-escape-report-latest
+                     draft-iab-escape-report-latest
 
 Abstract
 
