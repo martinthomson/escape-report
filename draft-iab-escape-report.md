@@ -1,7 +1,7 @@
 ---
 title: "Report from the IAB Workshop on Exploring Synergy between Content Aggregation and the Publisher Ecosystem (ESCAPE)"
 abbrev: "ESCAPE Workshop Report"
-docname: draft-thomson-escape-report-latest
+docname: draft-iab-escape-report-latest
 category: info
 ipr: trust200902
 
