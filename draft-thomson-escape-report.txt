@@ -5,7 +5,7 @@
 Network Working Group                                         M. Thomson
 Internet-Draft
 Intended status: Informational                             M. Nottingham
-Expires: March 15, 2020                               September 12, 2019
+Expires: March 21, 2020                               September 18, 2019
 
 
    Report from the IAB Workshop on Exploring Synergy between Content
@@ -35,7 +35,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on March 15, 2020.
+   This Internet-Draft will expire on March 21, 2020.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                 [Page 1]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 1]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -88,15 +88,18 @@ Table of Contents
      5.2.  Constraints on the AMP Format . . . . . . . . . . . . . .  16
      5.3.  Performance . . . . . . . . . . . . . . . . . . . . . . .  16
      5.4.  Implementation of Paywalls  . . . . . . . . . . . . . . .  16
-   6.  Security Considerations . . . . . . . . . . . . . . . . . . .  17
-   7.  Informative References  . . . . . . . . . . . . . . . . . . .  17
+   6.  Venues for Future Discussion  . . . . . . . . . . . . . . . .  17
+   7.  Security Considerations . . . . . . . . . . . . . . . . . . .  17
+   8.  References  . . . . . . . . . . . . . . . . . . . . . . . . .  17
+     8.1.  Informative References  . . . . . . . . . . . . . . . . .  17
+     8.2.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  20
    Appendix A.  About the Workshop . . . . . . . . . . . . . . . . .  20
      A.1.  Agenda  . . . . . . . . . . . . . . . . . . . . . . . . .  20
        A.1.1.  Thursday 2019-07-18 . . . . . . . . . . . . . . . . .  20
        A.1.2.  Friday 2019-07-19 . . . . . . . . . . . . . . . . . .  21
      A.2.  Workshop Attendees  . . . . . . . . . . . . . . . . . . .  21
    Appendix B.  Web Packaging Overview . . . . . . . . . . . . . . .  22
-     B.1.  Authority in HTTPS  . . . . . . . . . . . . . . . . . . .  22
+     B.1.  Authority in HTTPS  . . . . . . . . . . . . . . . . . . .  23
      B.2.  Authority in Web Packaging  . . . . . . . . . . . . . . .  23
      B.3.  Applicability . . . . . . . . . . . . . . . . . . . . . .  24
      B.4.  The AMP Format, Google Search Results, and Web Packaging   24
@@ -106,10 +109,7 @@ Table of Contents
 
 
 
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                 [Page 2]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 2]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -165,7 +165,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                 [Page 3]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 3]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -221,7 +221,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                 [Page 4]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 4]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -277,7 +277,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                 [Page 5]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 5]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -333,7 +333,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                 [Page 6]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 6]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -389,7 +389,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                 [Page 7]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 7]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -445,7 +445,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                 [Page 8]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 8]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -501,7 +501,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                 [Page 9]
+Thomson & Nottingham     Expires March 21, 2020                 [Page 9]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -557,7 +557,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                [Page 10]
+Thomson & Nottingham     Expires March 21, 2020                [Page 10]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -613,7 +613,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                [Page 11]
+Thomson & Nottingham     Expires March 21, 2020                [Page 11]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -669,7 +669,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                [Page 12]
+Thomson & Nottingham     Expires March 21, 2020                [Page 12]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -725,7 +725,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                [Page 13]
+Thomson & Nottingham     Expires March 21, 2020                [Page 13]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -781,7 +781,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                [Page 14]
+Thomson & Nottingham     Expires March 21, 2020                [Page 14]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -837,7 +837,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                [Page 15]
+Thomson & Nottingham     Expires March 21, 2020                [Page 15]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -893,7 +893,7 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 15, 2020                [Page 16]
+Thomson & Nottingham     Expires March 21, 2020                [Page 16]
 
 Internet-Draft           ESCAPE Workshop Report           September 2019
 
@@ -913,15 +913,22 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
    was recurrent in the discussion.  As observed in [DAS], these
    concerns might be addressed by linking to a signed bundle.
 
-6.  Security Considerations
+6.  Venues for Future Discussion
+
+   Web Packaging work continues in multiple forums.  Questions about the
+   core format and signatures is being discussed on the wpack@ietf.org
+   mailing list [1].  Changes to web browsers as proposed in [LOADING]
+   will be discussed on the Fetch specification repository [2].
+
+7.  Security Considerations
 
    Proposals discussed at the Workshop might have a significant security
    impact, and these topics were discussed in some depth; see
    Section 4.2.
 
-7.  References
+8.  References
 
-7.1.  Informative References
+8.1.  Informative References
 
    [ALAM]     Alam, S., Weigle, M., Nelson, M., Klein, M., and H. Van de
               Sompel, "Supporting Web Archiving via Web Packaging", June
@@ -938,6 +945,15 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
               August 2019, <https://developers.googleblog.com/2019/08/
               the-speed-benefit-of-amp-prerendering.html>.
 
+
+
+
+
+Thomson & Nottingham     Expires March 21, 2020                [Page 17]
+
+Internet-Draft           ESCAPE Workshop Report           September 2019
+
+
    [AOLOG]    Haber, S. and W. Stornetta, "How to time-stamp a digital
               document", Journal of Cryptology Vol. 3,
               DOI 10.1007/bf00196791, 1991.
@@ -945,14 +961,6 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
    [BERJON]   Berjon, R., "ESCAPE: The New York Times Position", July
               2019, <https://www.iab.org/wp-content/IAB-uploads/2019/07/
               NYT-ESCAPE.pdf>.
-
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 17]
-
-Internet-Draft           ESCAPE Workshop Report           September 2019
-
 
    [BREWSTER]
               Brewster, A., "ESCAPE Position / Patch.com", June 2019,
@@ -993,22 +1001,19 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
               <https://www.iab.org/wp-content/IAB-uploads/2019/06/
               cramer-position-paper.pdf>.
 
+
+
+
+
+Thomson & Nottingham     Expires March 21, 2020                [Page 18]
+
+Internet-Draft           ESCAPE Workshop Report           September 2019
+
+
    [DAS]      Das, S., "The Implication of Signed Exchanges on
               E-Commerce", June 2019, <https://www.iab.org/wp-content/
               IAB-uploads/2019/06/
               IAB-Position-Paper_-Signed-Exchanges.pdf>.
-
-
-
-
-
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 18]
-
-Internet-Draft           ESCAPE Workshop Report           September 2019
-
 
    [DEPUYDT-NELSON]
               DePuydt, M. and M. Nelson, "Signed Exchanges and The
@@ -1025,6 +1030,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
               Protocol (HTTP/1.1): Message Syntax and Routing",
               RFC 7230, DOI 10.17487/RFC7230, June 2014,
               <https://www.rfc-editor.org/info/rfc7230>.
+
+   [LOADING]  Yasskin, J., "Loading Signed Exchanges", September 2019,
+              <https://wicg.github.io/webpackage/loading.html>.
 
    [MEMENTO]  Van de Sompel, H., Nelson, M., and R. Sanderson, "HTTP
               Framework for Time-Based Access to Resource States --
@@ -1050,6 +1058,14 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
    [SXG]      Yasskin, J., "Signed HTTP Exchanges", draft-yasskin-http-
               origin-signed-responses-06 (work in progress), July 2019.
 
+
+
+
+Thomson & Nottingham     Expires March 21, 2020                [Page 19]
+
+Internet-Draft           ESCAPE Workshop Report           September 2019
+
+
    [TAG-DC]   Betts, A., "Distributed and syndicated content", July
               2017, <https://www.iab.org/wp-content/IAB-uploads/2019/06/
               IAB-Position-Paper_-Signed-Exchanges.pdf>.
@@ -1058,25 +1074,21 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
               Version 1.3", RFC 8446, DOI 10.17487/RFC8446, August 2018,
               <https://www.rfc-editor.org/info/rfc8446>.
 
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 19]
-
-Internet-Draft           ESCAPE Workshop Report           September 2019
-
-
    [YASSKIN]  Yasskin, J., "Chrome's position on the ESCAPE workshop",
               June 2019, <https://www.iab.org/wp-content/IAB-
               uploads/2019/06/chrome.html>.
 
-7.2.  URIs
+8.2.  URIs
 
-   [1] https://amp.dev/
+   [1] https://www.ietf.org/mailman/listinfo/wpack
 
-   [2] https://schema.org/
+   [2] https://github.com/whatwg/fetch/issues/784
 
-   [3] https://developers.google.com/amp/cache/
+   [3] https://amp.dev/
+
+   [4] https://schema.org/
+
+   [5] https://developers.google.com/amp/cache/
 
 Appendix A.  About the Workshop
 
@@ -1103,6 +1115,13 @@ A.1.1.  Thursday 2019-07-18
    Web Packaging and Aggregators:  The use of web packaging from the
       perspective of a content aggregator was given.
 
+
+
+Thomson & Nottingham     Expires March 21, 2020                [Page 20]
+
+Internet-Draft           ESCAPE Workshop Report           September 2019
+
+
    Web Packaging and Publishers:  After a break, presentations from web
       publishers talked about the benefits and costs of Web Packaging.
       This included some discussion of the effect of developing AMP-
@@ -1113,15 +1132,6 @@ A.1.1.  Thursday 2019-07-18
 
    Alternatives to Web Packaging:  This session looked at alternative
       technologies, including those that were attempted in the past and
-
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 20]
-
-Internet-Draft           ESCAPE Workshop Report           September 2019
-
-
       some more recent ideas for addressing the use case of making web
       navigations more performant.
 
@@ -1160,6 +1170,14 @@ A.2.  Workshop Attendees
 
    o  Dave Cramer, Hachette Book Group
 
+
+
+
+Thomson & Nottingham     Expires March 21, 2020                [Page 21]
+
+Internet-Draft           ESCAPE Workshop Report           September 2019
+
+
    o  Melissa DePuydt, Washington Post
 
    o  Levi Durfee, AMP Advisory Committee
@@ -1169,14 +1187,6 @@ A.2.  Workshop Attendees
    o  Joseph Lorenzo Hall, Center for Democracy & Technology (PC)
 
    o  Matthew Nelson, Washington Post
-
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 21]
-
-Internet-Draft           ESCAPE Workshop Report           September 2019
-
 
    o  Michael Nelson, Old Dominion University
 
@@ -1216,6 +1226,14 @@ Appendix B.  Web Packaging Overview
    as an alternative means of providing authority over a particular
    resource, for a few different reasons.
 
+
+
+
+Thomson & Nottingham     Expires March 21, 2020                [Page 22]
+
+Internet-Draft           ESCAPE Workshop Report           September 2019
+
+
    This appendix explains how authority works on the Web and how Web
    Packaging proposes to change that.
 
@@ -1226,13 +1244,6 @@ B.1.  Authority in HTTPS
    URL implies.  The combination of URI scheme (https), domain name (or
    host), and port number are formed into a single identifier, the
    origin [ORIGIN] to which content is attributed.
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 22]
-
-Internet-Draft           ESCAPE Workshop Report           September 2019
-
 
    Web browsers use the certificate offered as part of a TLS connection
    [TLS] to servers in determining whether a server is authoritative for
@@ -1270,6 +1281,15 @@ B.2.  Authority in Web Packaging
    A web browser that has been provided with a signed exchange can
    verify the signature, and - if the signature is valid and the
    certificate is acceptable - use the content from the signed exchange.
+
+
+
+
+Thomson & Nottingham     Expires March 21, 2020                [Page 23]
+
+Internet-Draft           ESCAPE Workshop Report           September 2019
+
+
    Critically, the web browser does not make an HTTPS connection to a
    server to get the content or to verify the signature.
 
@@ -1278,17 +1298,6 @@ B.2.  Authority in Web Packaging
    model, where authority is derived from a signature on objects.  In
    doing so, it aims to render the means of delivery irrelevant to
    determinations of security.
-
-
-
-
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 23]
-
-Internet-Draft           ESCAPE Workshop Report           September 2019
-
 
 B.3.  Applicability
 
@@ -1307,7 +1316,7 @@ B.3.  Applicability
 
 B.4.  The AMP Format, Google Search Results, and Web Packaging
 
-   The relationship between the AMP Project https://amp.dev/ [1] and Web
+   The relationship between the AMP Project https://amp.dev/ [3] and Web
    Packaging is complicated.  The AMP Project, sponsored by Google,
    establishes a profile of HTML with a stated goal of providing support
    for the best practices for the format, with a strong emphasis on
@@ -1322,30 +1331,29 @@ B.4.  The AMP Format, Google Search Results, and Web Packaging
 
    AMP content provides metadata in a form that can be reliably
    extracted, using the microformats defined by the Schema.org project
-   https://schema.org/ [2].  This aspect of AMP has no effect on the
+   https://schema.org/ [4].  This aspect of AMP has no effect on the
    discussion, except to the extent that this relates to Google Search
    and their use of this metadata in populating the carousel.
 
    Constrained use of active content - such as JavaScript - in AMP makes
    it possible to analyze content to verify that actions taken are
    narrowly limited.  This static analysis assures that AMP content can
+
+
+
+Thomson & Nottingham     Expires March 21, 2020                [Page 24]
+
+Internet-Draft           ESCAPE Workshop Report           September 2019
+
+
    be served without affecting other content on the same site.  For
    Google Search, this is what enables the loading of AMP content
    alongside search content and other AMP resources.
 
    To provide preloading, Google operates an AMP Cache
-   https://developers.google.com/amp/cache/ [3], from which AMP content
+   https://developers.google.com/amp/cache/ [5], from which AMP content
    is served.  As a consequence, browsers attribute the content to the
    origin [ORIGIN] of the AMP Cache and not the publisher, creating some
-
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 24]
-
-Internet-Draft           ESCAPE Workshop Report           September 2019
-
-
    confusion about how content is attributed, as discussed in the W3C
    finding on distributed content [TAG-DC].
 
@@ -1389,12 +1397,4 @@ Authors' Addresses
 
 
 
-
-
-
-
-
-
-
-
-Thomson & Nottingham     Expires March 15, 2020                [Page 25]
+Thomson & Nottingham     Expires March 21, 2020                [Page 25]
