@@ -554,10 +554,10 @@ matter of some contention.
 
 Some informal analysis from the Google Search deployment was presented (later
 published in {{AMP-PERF}}) that showed significant performance improvements in
-metrics related to navigation time resulting from the combination of prefetch,
-prerendering, and the AMP format.  These results are suggestive of a possibility
-that Web Packaging could provide some of that improvement on its own, but no
-data was presented that apportioned the improvement among the three components.
+metrics related to navigation time resulting from the combination of prefetch
+and prerendering. These results suggest that Web Packaging could provide some of
+that improvement on its own, but no data was presented that apportioned the
+improvement between prefetch versus prerendering.
 
 Though data was presented to demonstrate potential rather than be a definitive
 result, discussions raised a number of questions that suggest the need for
