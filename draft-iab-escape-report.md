@@ -112,7 +112,7 @@ informative:
 
   BREWSTER:
     title: "ESCAPE Position / Patch.com"
-    target: "https://www.iab.org/wp-content/IAB-uploads/2019/07/NYT-ESCAPE.pdf"
+    target: "https://www.iab.org/wp-content/IAB-uploads/2019/06/patch.pdf"
     date: 2019-06-06
     author:
       -
