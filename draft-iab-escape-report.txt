@@ -5,7 +5,7 @@
 Network Working Group                                         M. Thomson
 Internet-Draft
 Intended status: Informational                             M. Nottingham
-Expires: March 21, 2020                               September 18, 2019
+Expires: May 3, 2020                                    October 31, 2019
 
 
    Report from the IAB Workshop on Exploring Synergy between Content
@@ -35,7 +35,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on March 21, 2020.
+   This Internet-Draft will expire on May 3, 2020.
 
 Copyright Notice
 
@@ -53,9 +53,9 @@ Copyright Notice
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 1]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 1]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    the Trust Legal Provisions and are provided without warranty as
@@ -109,9 +109,9 @@ Table of Contents
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 2]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 2]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
 1.  Introduction
@@ -165,9 +165,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 3]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 3]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
 2.1.  Instant Navigation
@@ -221,9 +221,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 4]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 4]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
 2.2.  Offline Content Sharing
@@ -277,9 +277,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 5]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 5]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
 2.3.1.  Book Publishing
@@ -333,9 +333,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 6]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 6]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
 2.3.2.  Web Archiving
@@ -389,9 +389,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 7]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 7]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
 3.  Interactions Between Web Publishers and Aggregators
@@ -445,9 +445,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 8]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 8]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    Publishers that do produce AMP said they see a non-trivial increase
@@ -501,9 +501,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                 [Page 9]
+Thomson & Nottingham       Expires May 3, 2020                  [Page 9]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    In this context, participants observed that it would be difficult to
@@ -557,9 +557,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 10]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 10]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    Understanding the complete effect of Web Packaging on web performance
@@ -613,9 +613,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 11]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 11]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    For example, a news article often has many links, but not all of them
@@ -669,9 +669,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 12]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 12]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    only personalizing content based on what they know about the user but
@@ -725,9 +725,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 13]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 13]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    For example, an attacker might be able to cause content with a
@@ -781,9 +781,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 14]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 14]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
 5.  AMP Issues Unrelated to Web Packaging
@@ -837,9 +837,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 15]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 15]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
 5.2.  Constraints on the AMP Format
@@ -893,9 +893,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 16]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 16]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    article's full content, hidden by default but easily accessible to
@@ -937,8 +937,8 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
    [AMP-LESSONS]
               Ubl, M., "Standardizing lessons learned from AMP", March
-              2018, <https://blog.amp.dev/2018/03/08/
-              standardizing-lessons-learned-from-amp/>.
+              2018, <https://blog.amp.dev/2018/03/08/standardizing-
+              lessons-learned-from-amp/>.
 
    [AMP-PERF]
               Steinlauf, E., "The Speed Benefit of AMP Prerendering",
@@ -949,9 +949,9 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 17]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 17]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    [AOLOG]    Haber, S. and W. Stornetta, "How to time-stamp a digital
@@ -964,16 +964,16 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
    [BREWSTER]
               Brewster, A., "ESCAPE Position / Patch.com", June 2019,
-              <https://www.iab.org/wp-content/IAB-uploads/2019/07/
-              NYT-ESCAPE.pdf>.
+              <https://www.iab.org/wp-content/IAB-uploads/2019/06/
+              patch.pdf>.
 
    [BUNDLE]   Yasskin, J., "Web Packaging", draft-yasskin-dispatch-web-
               packaging-00 (work in progress), June 2017.
 
    [CFP]      IAB, ., "Exploring Synergy between Content Aggregation and
               the Publisher Ecosystem Workshop 2019", May 2019,
-              <https://www.iab.org/activities/workshops/
-              escape-workshop/>.
+              <https://www.iab.org/activities/workshops/escape-
+              workshop/>.
 
    [CHATHAM-HOUSE]
               Chatham House, "Chatham House Rule", n.d.,
@@ -1005,15 +1005,15 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 18]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 18]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    [DAS]      Das, S., "The Implication of Signed Exchanges on
               E-Commerce", June 2019, <https://www.iab.org/wp-content/
-              IAB-uploads/2019/06/
-              IAB-Position-Paper_-Signed-Exchanges.pdf>.
+              IAB-uploads/2019/06/IAB-Position-Paper_-Signed-
+              Exchanges.pdf>.
 
    [DEPUYDT-NELSON]
               DePuydt, M. and M. Nelson, "Signed Exchanges and The
@@ -1056,14 +1056,14 @@ Internet-Draft           ESCAPE Workshop Report           September 2019
               <https://www.rfc-editor.org/info/rfc5218>.
 
    [SXG]      Yasskin, J., "Signed HTTP Exchanges", draft-yasskin-http-
-              origin-signed-responses-06 (work in progress), July 2019.
+              origin-signed-responses-07 (work in progress), September
+              2019.
 
 
 
-
-Thomson & Nottingham     Expires March 21, 2020                [Page 19]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 19]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    [TAG-DC]   Betts, A., "Distributed and syndicated content", July
@@ -1117,9 +1117,9 @@ A.1.1.  Thursday 2019-07-18
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 20]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 20]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    Web Packaging and Publishers:  After a break, presentations from web
@@ -1173,9 +1173,9 @@ A.2.  Workshop Attendees
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 21]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 21]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    o  Melissa DePuydt, Washington Post
@@ -1229,9 +1229,9 @@ Appendix B.  Web Packaging Overview
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 22]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 22]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    This appendix explains how authority works on the Web and how Web
@@ -1285,9 +1285,9 @@ B.2.  Authority in Web Packaging
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 23]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 23]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    Critically, the web browser does not make an HTTPS connection to a
@@ -1341,9 +1341,9 @@ B.4.  The AMP Format, Google Search Results, and Web Packaging
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 24]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 24]
 
-Internet-Draft           ESCAPE Workshop Report           September 2019
+Internet-Draft           ESCAPE Workshop Report             October 2019
 
 
    be served without affecting other content on the same site.  For
@@ -1397,4 +1397,4 @@ Authors' Addresses
 
 
 
-Thomson & Nottingham     Expires March 21, 2020                [Page 25]
+Thomson & Nottingham       Expires May 3, 2020                 [Page 25]
